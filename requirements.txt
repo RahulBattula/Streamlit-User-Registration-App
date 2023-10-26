@@ -1,5 +1,5 @@
 pandas
 mysql-connector
 mysql-connector-python
-mysql-connector-python-rf
+mysql-connector-python-rf==8.0.23
 pip==23.3.1
