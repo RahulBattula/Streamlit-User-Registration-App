@@ -1,4 +1,5 @@
-# User Registration Form using Streamlit and MySQL
+# User Registration Form using Streamlit and MySQL 
+Demo: https://sl-user-app.streamlit.app/
 
 This project is a user registration form built with the Streamlit framework and connected to a MySQL database. It allows users to register by providing their name, email, and password. The application stores user data in a MySQL database for future access.
 
